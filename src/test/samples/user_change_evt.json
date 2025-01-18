@@ -1,0 +1,70 @@
+{
+  "type": "user_change",
+  "user": {
+    "id": "W4V3G3TML",
+    "team_id": "T0G9AL7B8",
+    "name": "egareis",
+    "deleted": false,
+    "color": "3c8c69",
+    "real_name": "Emily Gareis",
+    "tz": "America/Chicago",
+    "tz_label": "Central Daylight Time",
+    "tz_offset": -18000,
+    "profile": {
+      "title": "Ops Manager @ Venmo Purchase Support",
+      "phone": "",
+      "skype": "",
+      "real_name": "Emily Gareis",
+      "real_name_normalized": "Emily Gareis",
+      "display_name": "egareis",
+      "display_name_normalized": "egareis",
+      "fields": {
+        "Xf4C9J2J04": {
+          "value": "Venmo Support",
+          "alt": ""
+        }
+      },
+      "status_text": "",
+      "status_emoji": "",
+      "status_expiration": 0,
+      "avatar_hash": "643b700b7111",
+      "image_original": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_original.png",
+      "email": "egareis@paypal.com",
+      "first_name": "Emily",
+      "last_name": "Gareis",
+      "image_24": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_24.png",
+      "image_32": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_32.png",
+      "image_48": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_48.png",
+      "image_72": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_72.png",
+      "image_192": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_192.png",
+      "image_512": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_512.png",
+      "image_1024": "https://avatars.slack-edge.com/2019-03-17/579227481619_643b700b7111caf4c567_1024.png",
+      "status_text_canonical": "",
+      "team": "T0G9AL7B8",
+      "is_custom_image": true
+    },
+    "is_admin": false,
+    "is_owner": false,
+    "is_primary_owner": false,
+    "is_restricted": false,
+    "is_ultra_restricted": false,
+    "is_bot": false,
+    "is_app_user": false,
+    "updated": 1552801455,
+    "locale": "en-US",
+    "enterprise_user": {
+      "id": "W4V3G3TML",
+      "enterprise_id": "E3T9KQULR",
+      "enterprise_name": "PayPal",
+      "is_admin": false,
+      "is_owner": false,
+      "teams": [
+        "T025F19MZ",
+        "T03QKQ9A0",
+        "T0G9AL7B8"
+      ]
+    }
+  },
+  "cache_ts": 1552801455,
+  "event_ts": "1552801455.752700"
+}

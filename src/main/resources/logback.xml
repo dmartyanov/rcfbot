@@ -26,7 +26,7 @@
     </appender>
 
     <logger name="akka" level="INFO"/>
-    <logger name="reactivemongo" level="INFO"/>
+    <logger name="reactivemongo" level="WARN"/>
 
     <root level="INFO">
         <appender-ref ref="STDOUT"/>

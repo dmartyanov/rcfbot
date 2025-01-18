@@ -1,0 +1,14 @@
+HttpRequest(
+    HttpMethod(POST),
+    https://slack.com/api/chat.postMessage,
+    List(
+        Content-Type: application/json,
+        Authorization: Bearer <legacy_token>
+    ),
+    HttpEntity.Strict(text/plain; charset=UTF-8,
+        {
+            "channel":"DGYF5LP9N",
+            "text":"Hello with attachments",
+            "attachments":"[{"actions":[{"name":"ok","text":"Sure!","type":"button","value":"ok"},{"name":"no","text":"Will skip this time","type":"button","value":"no"}]}]",
+            "unfurl_links":null,"unfurl_media":null,"icon_url":null,"icon_emoji":null,"replace_original":null,"delete_original":null,"thread_ts":null})
+        }

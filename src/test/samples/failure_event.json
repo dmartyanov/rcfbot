@@ -1,0 +1,15 @@
+{
+    "type":"desktop_notification",
+    "title":"PayPal",
+    "subtitle":"AI Dev Assistant (bot)",
+    "msg":"1552801441.000200",
+    "ts":"1552801441.000200",
+    "content":"Random Coffee Bot is restarted",
+    "channel":"DGYF5LP9N",
+    "launchUri":"slack:\/\/channel?id=DGYF5LP9N&message=1552801441000200&team=T3T9KQULR",
+    "avatarImage":null,
+    "ssbFilename":"knock_brush.mp3",
+    "imageUri":null,
+    "is_shared":true,
+    "event_ts":"1552801441.000200"
+}
